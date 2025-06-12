@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy María Alejandra Angulo Mejia
+#  ¡Hola! Soy María Alejandra Angulo Mejia
 
 **Estudiante de Ingeniería Electrónica y de Sistemas** apasionada por el desarrollo de software y la intersección entre la tecnología y la sociedad. Creo en el poder de la tecnología para generar un impacto positivo y sostenible.
 
@@ -30,20 +30,7 @@ Solución web para la gestión remota de un horno de soldadura.
 - Disfruto explorar nuevas herramientas y aprender continuamente en el mundo del desarrollo.
 - Músico en mi tiempo libre y fanática de los conciertos en vivo.
 
----
-
-<div align="center">
-  
-  _"La tecnología es el puente entre la creatividad y el cambio social."_
-
-</div>
-
----
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,spring,nestjs,java,js,ts" alt="Skills" />
 </p>
 
-<p align="center">
-  ¡Gracias por visitar mi perfil!
-</p>
