@@ -1,4 +1,4 @@
-#  ¡Hola! Soy María Alejandra Angulo Mejia
+#  Soy María Alejandra Angulo Mejia
 
 **Estudiante de Ingeniería Electrónica y de Sistemas** apasionada por el desarrollo de software y la intersección entre la tecnología y la sociedad. Creo en el poder de la tecnología para generar un impacto positivo y sostenible.
 
@@ -17,7 +17,7 @@
 
 ### [Donacción](https://github.com/isis3710-uniandes/ISIS3710_202510_S1_E2_Front.git)
 Facilitando donaciones y el voluntariado a través de una plataforma accesible y moderna.  
-- [Frontend](https://github.com/isis3710-uniandes/ISIS3710_202510_S1_E2_Front.git) | [Backend](https://github.com/isis3710-uniandes/ISIS3710_202510_S1_E2_Back.git)
+- [Frontend](https://github.com/marialeang2/Donaccion-Front) | [Backend](https://github.com/marialeang2/Donaccion-Back)
 
 ### [SSAL](https://github.com/marialeang2/SSAL_2025.git)
 Solución web para la gestión remota de un horno de soldadura.
